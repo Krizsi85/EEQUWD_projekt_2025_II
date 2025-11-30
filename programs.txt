@@ -1,0 +1,5 @@
+# Figyelt programok
+#C:\Apps\Example\example.exe
+#C:\Tools\Monitor\target.exe
+
+C:\Program Files\Notepad++\notepad++.exe
